@@ -5,9 +5,9 @@
             "type": "al",
             "request": "launch",
             "name": "Your own server",
-            "server": "http://localhost",
-            "serverInstance": "nav",
-            "authentication": "UserPassword",
+            "server": "http://tm1534:7049",
+            "serverInstance": "DynamicsNAV110b22292",
+            "authentication": "Windows",
             "startupObjectId": 22
         }
     ]
